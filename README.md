@@ -1,4 +1,4 @@
-# Mango Ripeness Classification Using Convolutional Neural Networks (CNN,Tensorflow,Matplotlib)
+# Mango Ripeness Classification(CNN,Tensorflow,Matplotlib)
 
 ## Overview
 
